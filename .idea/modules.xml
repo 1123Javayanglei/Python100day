@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gitbub/Python-100-Days/.idea/Python-100-Days.iml" filepath="$PROJECT_DIR$/../gitbub/Python-100-Days/.idea/Python-100-Days.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python100day.iml" filepath="$PROJECT_DIR$/.idea/Python100day.iml" />
     </modules>
   </component>
